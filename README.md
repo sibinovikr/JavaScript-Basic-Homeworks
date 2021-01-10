@@ -1,1 +1,1 @@
-# JavaScript-Basic-Homeworks
+# JavaScriptBasicHomeworks

@@ -18,7 +18,7 @@ if((todayDateMonth == userBirthMonth) && (todayDateDate == userBirthDay)){
     alert("Happy Birthday!");
 }
 
-if(yearDifference > 18){
+if(yearDifference >= 18){
     alert("Полнолетен сум");
 } else if((yearDifference == 18) && (todayDateMonth > userBirthMonth)){
     alert("Полнолетен сум");
